@@ -1,2 +1,2 @@
 # appBlogActiv1
-Application for validate Angular OpenClassroom
+Application for validate Angular OpenClassroom the first Activity
